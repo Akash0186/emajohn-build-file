@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.de2a4bd2.css",
+    "main.js": "/static/js/main.707b4654.js",
+    "static/js/787.b32b9393.chunk.js": "/static/js/787.b32b9393.chunk.js",
+    "static/media/logo.png": "/static/media/logo.0dd9a5104bbc1da3e6ae.png",
+    "static/media/nahian nahian nahian nahian.jpg": "/static/media/nahian nahian nahian nahian.4c384badd10bd469dbe4.jpg",
+    "index.html": "/index.html",
+    "main.de2a4bd2.css.map": "/static/css/main.de2a4bd2.css.map",
+    "main.707b4654.js.map": "/static/js/main.707b4654.js.map",
+    "787.b32b9393.chunk.js.map": "/static/js/787.b32b9393.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de2a4bd2.css",
+    "static/js/main.707b4654.js"
+  ]
+}
